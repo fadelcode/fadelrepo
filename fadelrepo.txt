@@ -1,3 +1,5 @@
 fadelrepo teks
 saya berharap saya hanya belajar git dan github hanya 3 hari maksimal dan minimal 1 hari
 saya bisa menggunakan git dan github dengan baik dan benar
+-------------
+saya bercita - cita menjadi seorang web developer handal
